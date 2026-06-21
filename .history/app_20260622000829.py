@@ -14,7 +14,7 @@ def load_tasks():
         if line.strip()
     ]
 
-# show_tasks 函数用于显示任务清单 124436457
+
 def show_tasks(tasks):
     print("Git 协作练习任务清单")
     print("=" * 24)
